@@ -1,7 +1,7 @@
 ####
 # 📚 Spring Lv.4
 #### 📌 [과제 설명]
-- 2024.1.4 ~ 2024.1.8 (5일) | 페어 프로그래밍 과제([현민영](https://github.com/95hyun), [이창훈])
+- 2024.1.8 ~ 2024.1.11 (4일) | 페어 프로그래밍 과제([현민영](https://github.com/95hyun), [이창훈])
 - 목표: Spring Boot, JPA, Spring Security, JWT 를 사용하여 굿즈 판매 서버 만들기
 - 진행: 페어로 진행하려했으나, 창훈님의 개인적인 사정으로 단독으로 진행함
 ##
@@ -64,10 +64,9 @@
 #### 📌 [테스트 과정 중 Issue]
 장바구니(cart) entity 연관관계 설정에 대하여 지연로딩, cascade, 양방향 등 세부적으로 고려해야 하는 부분이 많아 해결하는데 시간이 지연됨.
 #### 📌 [API 명세서 / Entity Relationship Diagram]
-|API 명세서(현민영)|
-|:---:|
-|![image](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/124ff588-62dc-4970-99e9-d6cfa30d6db7)|
-|Entity Relationship Diagram(현민영)|
-|![image](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/562faec3-8ee9-4966-b1d6-de985b6cdc2d)|
+|API 명세서 & Entity Relationship Diagram (현민영)|
+|:---:|:---:|
+|![image](https://github.com/95hyun/spring-hanghae99-assignment-level4/assets/151743721/00d2a8f4-9084-4042-9ae8-96a490236125)|
+![image](https://github.com/95hyun/spring-hanghae99-assignment-level4/assets/151743721/1dd35f70-07e3-4dcb-86ef-eef3bb403b17)|
 ##
 #### ReadMe 양식 참고 [지수님 GitHub](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2)
