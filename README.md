@@ -1,5 +1,5 @@
 ####
-# 📚 Spring Lv.4
+# 📚 Spring Lv.5
 #### 📌 [과제 설명]
 - 2024.1.8 ~ 2024.1.11 (4일) | 페어 프로그래밍 과제([현민영](https://github.com/95hyun), [이창훈])
 - 목표: Spring Boot, JPA, Spring Security, JWT 를 사용하여 굿즈 판매 서버 만들기
