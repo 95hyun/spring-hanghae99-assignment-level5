@@ -65,7 +65,7 @@
 장바구니(cart) entity 연관관계 설정에 대하여 지연로딩, cascade, 양방향 등 세부적으로 고려해야 하는 부분이 많아 해결하는데 시간이 지연됨.
 #### 📌 [API 명세서 / Entity Relationship Diagram]
 |API 명세서 & Entity Relationship Diagram (현민영)|
-|:---:|:---:|
+|:---:||:---:|
 |![image](https://github.com/95hyun/spring-hanghae99-assignment-level4/assets/151743721/00d2a8f4-9084-4042-9ae8-96a490236125)|
 ![image](https://github.com/95hyun/spring-hanghae99-assignment-level4/assets/151743721/1dd35f70-07e3-4dcb-86ef-eef3bb403b17)|
 ##
